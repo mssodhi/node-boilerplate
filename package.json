@@ -3,20 +3,20 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "compression": "^1.7.3",
-    "express": "^4.16.4",
-    "helmet": "^3.14.0",
-    "morgan": "^1.9.1",
-    "mysql2": "^1.6.1",
-    "sequelize": "^4.39.0"
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.7"
   },
   "devDependencies": {
-    "nodemon": "^1.18.4",
-    "husky": "^1.1.2",
-    "lint-staged": "^7.3.0",
-    "prettier": "^1.14.3",
-    "snyk": "^1.103.4"
+    "nodemon": "^2.0.3",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.1.7",
+    "prettier": "^2.0.5",
+    "snyk": "^1.311.0"
   },
   "lint-staged": {
     "src/**/*.{js,json}": [
